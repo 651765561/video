@@ -1,0 +1,33 @@
+E:\Work\video\videoII\videoII\bin\Debug\videoII.exe
+E:\Work\video\videoII\videoII\bin\Debug\videoII.pdb
+E:\Work\video\videoII\videoII\obj\x86\Debug\videoII.frm_ClientSocket.resources
+E:\Work\video\videoII\videoII\obj\x86\Debug\videoII.frm_play.resources
+E:\Work\video\videoII\videoII\obj\x86\Debug\videoII.Properties.Resources.resources
+E:\Work\video\videoII\videoII\obj\x86\Debug\videoII.csproj.GenerateResource.Cache
+E:\Work\video\videoII\videoII\obj\x86\Debug\videoII.exe
+E:\Work\video\videoII\videoII\obj\x86\Debug\videoII.pdb
+E:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\videoII.exe
+E:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\videoII.pdb
+E:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\MySql.Data.dll
+E:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\videoII.exe.config
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_ClientSocket.resources
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_ClientSocketII.resources
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_play.resources
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.Properties.Resources.resources
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.csproj.GenerateResource.Cache
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.exe
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.pdb
+E:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.csprojResolveAssemblyReference.cache
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\videoII.exe.config
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.exe
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.pdb
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\videoII.exe
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\videoII.pdb
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Debug\MySql.Data.dll
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.csprojResolveAssemblyReference.cache
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_ClientSocket.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_ClientSocketII.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_palymp3.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.frm_play.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.Properties.Resources.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Debug\videoII.csproj.GenerateResource.Cache

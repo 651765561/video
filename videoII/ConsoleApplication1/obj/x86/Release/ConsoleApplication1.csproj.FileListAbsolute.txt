@@ -1,0 +1,5 @@
+F:\Work\video（录像播放 马工）\videoII\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\Work\video（录像播放 马工）\videoII\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\Work\video（录像播放 马工）\videoII\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Work\video（录像播放 马工）\videoII\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+F:\Work\video（录像播放 马工）\videoII\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

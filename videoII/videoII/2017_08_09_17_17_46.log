@@ -1,0 +1,322 @@
+[2017-08-09 17:17:46]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:1 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>0</PTZCmd>
+<Param>5</Param>
+<Stop>0</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:17:52]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1000
+Content-Type:Application/xml
+Expires:3600
+Cseq:2 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:196
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<UserName>admin</UserName>
+<Password>admin</Password>
+<ClientType>1</ClientType>
+</Message>
+
+
+[2017-08-09 17:17:52]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1001
+To: <sip:000000000000000000@127.0.0.1>
+Content-Type: Application/xml
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 52
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message/>
+
+
+[2017-08-09 17:17:56]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1002
+Content-Type:Application/xml
+Expires:3600
+Cseq:3 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:140
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<DeviceID>34020000003000000001@192.168.0.226</DeviceID>
+<Status>1</Status>
+</Message>
+
+
+[2017-08-09 17:17:56]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1003
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+
+
+[2017-08-09 17:18:00]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:4 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>0</PTZCmd>
+<Param>5</Param>
+<Stop>0</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:18:00]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1007
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+essage>
+
+
+[2017-08-09 17:18:01]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:5 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>0</PTZCmd>
+<Param>5</Param>
+<Stop>1</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:18:01]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1007
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+essage>
+
+
+[2017-08-09 17:18:01]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:6 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>0</PTZCmd>
+<Param>5</Param>
+<Stop>1</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:18:01]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1007
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+essage>
+
+
+[2017-08-09 17:18:02]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:7 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>1</PTZCmd>
+<Param>5</Param>
+<Stop>0</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:18:02]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1007
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+essage>
+
+
+[2017-08-09 17:18:03]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:8 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>1</PTZCmd>
+<Param>5</Param>
+<Stop>1</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:18:03]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1007
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+essage>
+
+
+[2017-08-09 17:18:03]
+REGISTER sip:000000000000000000@127.0.0.1 SIP/2.0
+Call-ID: abedreg;branch
+Proxy-Info:1006
+Content-Type:Application/xml
+Expires:3600
+Cseq:9 REGISTER
+From:<sip:000000000000000000@127.0.0.1>;tag=123
+Max-Forwards:70
+To:<sip:000000000000000000@127.0.0.1>
+Content-Length:246
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<User>34020000003000000001@192.168.0.226</User>
+<Camera>20000000001320000002@192.168.0.226</Camera>
+ 		<PTZCmd>1</PTZCmd>
+<Param>5</Param>
+<Stop>1</Stop>
+<Priority>0</Priority>
+</Message>
+
+
+[2017-08-09 17:18:03]
+SIP/2.0 200 OK
+CSeq: 
+Call-ID: abedreg;branch
+Error-Info: 0
+From: <sip:000000000000000000@127.0.0.1>;tag=123
+Proxy-Info: 1007
+To: <sip:000000000000000000@127.0.0.1>
+User-Agent: AccessServer
+Max-Forwards: 70
+Content-Length: 0
+
+essage>
+
+

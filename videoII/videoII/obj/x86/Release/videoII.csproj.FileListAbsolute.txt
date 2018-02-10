@@ -1,0 +1,13 @@
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Release\videoII.exe
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Release\MySql.Data.dll
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Release\videoII.exe.config
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.csprojResolveAssemblyReference.cache
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.frm_ClientSocket.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.frm_ClientSocketII.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.frm_palymp3.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.frm_play.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.Properties.Resources.resources
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.csproj.GenerateResource.Cache
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.exe
+F:\Work\video（录像播放 马工）\videoII\videoII\obj\x86\Release\videoII.pdb
+F:\Work\video（录像播放 马工）\videoII\videoII\bin\Release\videoII.pdb

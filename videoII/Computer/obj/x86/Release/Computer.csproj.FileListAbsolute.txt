@@ -1,0 +1,5 @@
+F:\Work\video（录像播放 马工）\videoII\Computer\bin\Release\Computer.exe
+F:\Work\video（录像播放 马工）\videoII\Computer\bin\Release\Computer.pdb
+F:\Work\video（录像播放 马工）\videoII\Computer\obj\x86\Release\Computer.exe
+F:\Work\video（录像播放 马工）\videoII\Computer\obj\x86\Release\Computer.pdb
+F:\Work\video（录像播放 马工）\videoII\Computer\bin\Release\Computer.exe.config
